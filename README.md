@@ -1,16 +1,35 @@
-# Hi 👋, I'm Roshan Shelke
+<h1 align="center">Hi 👋, I'm Roshan Shelke</h1>
+<h3 align="center">I'm an IT Engineer from AIT Pune</h3>
 
-🎓 Second-year IT student at Army Institute of Technology, Pune.  
-💻 Passionate about web development, hackathons, and building impactful projects.  
-🚀 Currently collaborating on the IEEE Conference Website project as a core contributor.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## 🧰 Skills
-- Frontend: HTML, CSS, JavaScript, React, TailwindCSS
-- Backend: Node.js, Express
-- Database: MongoDB, Firebase
-- Tools: Git, GitHub, Figma
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOPs-4B8BBE?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -18,18 +37,34 @@
 
 ### 🌟 [IEEE Conference Website](https://github.com/OWNER/REPO_NAME)
 > **Role:** Collaborator  
-> Modern responsive site for managing conference details, papers, registration, and more.
+> Responsive site for managing conference details, papers, registration, and more.
+
+### 📚 [StudyNotion](https://github.com/roshanshelke13/StudyNotion)
+> Full-stack edtech platform for course creation, enrollment, and learning.
+
+### 🎵 [Spotify Clone](https://github.com/roshanshelke13/Spotify-Clone)
+> A sleek music streaming app clone with React and Spotify API.
 
 ### 🛍️ [Online Shopping Web App](https://roshanshelke13.github.io/Online_Shopping/)
-> Full-stack shopping cart application with product browsing and checkout.
+> Shopping cart application with product browsing and checkout.
 
 ---
 
 ## 📫 Connect with me
-- ✉️ [Email](mailto:roshanshelke167@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/roshan-shelke-91aba4224/))
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO_SITE)
+
+<p align="center">
+  <a href="mailto:roshanshelke167@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/roshan-shelke-91aba4224/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/_roshan_1_3_5/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanshelke13&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+> *“Code. Collaborate. Create.”*
