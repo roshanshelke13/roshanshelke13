@@ -37,16 +37,24 @@
 
 ### 🌟 [IEEE Conference Website](https://github.com/OWNER/REPO_NAME)
 > **Role:** Collaborator  
-> Responsive site for managing conference details, papers, registration, and more.
+> Responsive site for managing conference details, papers, registration, and more.  
+> 🔗 [Live Website](https://aitpune-icndia26.com/)
 
 ### 📚 [StudyNotion](https://github.com/roshanshelke13/StudyNotion)
-> Full-stack edtech platform for course creation, enrollment, and learning.
+> Full-stack edtech platform for course creation, enrollment, and learning.  
+> 🔗 [Live Demo](https://study-notion-frontend-rosy.vercel.app/)
+
+### 🛒 [Forever - E-Commerce Platform](https://github.com/roshanshelke13/E-Commerce-Website)
+> Full-stack shopping platform with **user interface** & **admin dashboard**, built using **React (Vite)**, **Node.js**, **Express**, **MongoDB**, and integrated **Razorpay payments**.  
+> 🧑‍💻 [User Site](https://e-commerce-beryl-zeta-42.vercel.app/) | 🛠️ [Admin Portal](https://e-commerce-admin-ten-beta.vercel.app/)
 
 ### 🎵 [Spotify Clone](https://github.com/roshanshelke13/Spotify-Clone)
-> A sleek music streaming app clone with React and Spotify API.
+> A sleek music streaming app clone with React and Spotify API.  
+> 🔗 [Live Demo](https://spotify-clone-iota-green.vercel.app/)
 
 ### 🛍️ [Online Shopping Web App](https://roshanshelke13.github.io/Online_Shopping/)
 > Shopping cart application with product browsing and checkout.
+
 
 ---
 
@@ -62,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanshelke13&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=roshanshelke13&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
