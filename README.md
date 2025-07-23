@@ -70,8 +70,11 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=roshanshelke13&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshanshelke13&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanshelke13&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 
 
 ---
